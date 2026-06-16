@@ -135,6 +135,17 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kirens216@gmail.com)
 
+[![Python Fundamentals](https://img.shields.io/badge/Python-Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://colab.research.google.com/drive/1pBd4JmButu9VyQazEWIQIo7BAvarMRZ0?usp=sharing)
+
+[![Python Logic & Control Flow](https://img.shields.io/badge/Python-Logic%20%26%20Control%20Flow-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://colab.research.google.com/drive/1Y-1LY-NXh8NzfbFNfxAErdsuaonCmyTh?usp=sharing)
+
+[![Python Data Structures](https://img.shields.io/badge/Python-Data%20Structures-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://colab.research.google.com/drive/1GQwkgkUqKyd9XLWKqEURUR3RV-lqt1KT?usp=sharing)
+
+[![Pandas Data Analysis](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://colab.research.google.com/drive/1fNmZVhKGyvrFd20DjeLC-wDVsIaoqQYT?usp=sharing)
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirens216@gmail.com)
+
+This looks much more professional than naming them "Workbook 1, 2, 3" and immediately tells recruiters
 ---
 
 # 📊 GitHub Statistics

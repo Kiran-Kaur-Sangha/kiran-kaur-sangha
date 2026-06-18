@@ -125,9 +125,13 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+## 🌍 Beyond the Dashboard
 
+> My projects focus on transforming raw data into practical outcomes. By combining analysis, visualisation, programming, and business thinking, I aim to uncover patterns, answer meaningful questions, and support informed decision-making through data-driven solutions.
 
+**Process:** Collect → Clean → Analyse → Visualise → Recommend → Improve
 
+> Data tells us what is happening. The real challenge is understanding why it is happening and what should happen next. Through my projects, I have focused on turning analysis into action by combining technical skills with curiosity, lived experience, and a people-first perspective to create solutions that are both evidence-based and meaningful.
 
 # 🌐 Portfolio & Connect With Me
 

@@ -20,7 +20,6 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 <p align="center">
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/>
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>

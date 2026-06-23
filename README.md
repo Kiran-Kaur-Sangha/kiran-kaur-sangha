@@ -10,9 +10,21 @@
 
 An aspiring Data Analyst and AI enthusiast currently completing a Data Analysis Bootcamp, building practical experience across data analytics, business intelligence, databases, cloud technologies, and AI.
 
-My professional background spans government administration, healthcare, project coordination, and equine performance environments, where I developed strong analytical, problem-solving, stakeholder communication, and data management skills. I'm now applying those experiences to data-driven projects using Excel, Tableau, Power BI, SQL, Python, and Microsoft Azure.
+My professional background spans across structured government administration, operational healthcare frameworks, project coordination, and high performance equine environments. Leveraging this distinct domain expertise, I bridge the gap between technical data infrastructure and executive operations—transforming messy multi-source data streams into structured relational databases, high-fidelity interactive dashboards, and actionable business intelligence.
 
-I enjoy transforming raw data into meaningful insights, uncovering trends, and creating visualisations that support better decision-making.
+**Core Philosophy:** *Data captures organizational history; strategic analysis designs its future. My focus is engineering clean pipelines, isolating margin drivers, and presenting high-density insight matrices that empower leadership teams to make data-driven decisions.*
+
+---
+
+## 🛠️ Enterprise Tech Stack & Methodologies
+
+| Core Domain | Core Technologies | Applied Engineering Capability |
+| :--- | :--- | :--- |
+| **Business Intelligence** | Tableau Public, Power BI Desktop, Power BI Service | Multi-source ETL pipelines, dynamic cross-filtering context, executive dashboard design. |
+| **Data Engineering** | SQL, MySQL, Power Query (M Language) | Multi-table structural relational schema design, primary/foreign key mapping, complex aggregate scripts. |
+| **Programmatic Analytics**| Python 3.x, Pandas Data Alignment Engine | Vectorized data cleansing arrays, Boolean masking matrix design, conditional automated flow logic. |
+| **Cloud Infrastructure** | Microsoft Azure, Azure SQL Database | Azure Data Fundamentals, cloud infrastructure deployment, modern security & access governance controls. |
+| **Spreadsheet Modeling** | Microsoft Excel | Advanced data hygiene, multidimensional Pivot Table matrix logic, statistical validation structures. |
 ---
 
 # Tech Stack
@@ -25,71 +37,6 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
 </p>
 
----
-
-# 📈 Analytics Toolkit
-
-## 📊 Excel
-
-**Transforming spreadsheets into actionable insights**
-
-* Pivot Tables & Pivot Charts
-* Data Cleaning & Validation
-* SUM, SUMIF, AVERAGE & VLOOKUP
-* Dashboard Creation
-* Retail & Sales Analysis
-
-## 📉 Tableau
-
-**Turning data into visual stories**
-
-* Interactive Dashboards
-* Trend Analysis
-* KPI Monitoring
-* Data Storytelling
-* Dashboard Publishing
-
-## 📈 Power BI
-
-**Building reports that support decision-making**
-
-* Power Query Transformations
-* Data Modelling
-* Interactive Reports
-* DAX Fundamentals
-* Business Intelligence Reporting
-
-## 🗄️ SQL & MySQL
-
-**Querying data to answer business questions**
-
-* Data Retrieval & Filtering
-* JOINs & Relationships
-* Aggregations & Grouping
-* Relational Database Design
-* Business-Focused Query Development
-
-## 🐍 Python
-
-**Exploring and manipulating data through code**
-
-* Pandas
-* Variables & Data Types
-* Loops & Conditional Logic
-* Data Processing
-* Data Exploration
-
-## ☁️ Microsoft Azure
-
-**Understanding modern cloud data infrastructure**
-
-* Azure Data Fundamentals
-* Azure SQL Database
-* Cloud Computing Concepts
-* Data Governance
-* Cloud Architecture
-
----
 
 # 🚀 Featured Projects
 
@@ -113,8 +60,25 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 
 > Explored Python and Pandas through practical data analysis exercises, applying programming fundamentals, data manipulation, conditional logic, filtering, transformation, and statistical techniques to clean, analyse, and interpret real-world datasets.
 
+## 🎯 Analytical Workflow & Methodological Blueprint
 
+Rather than generating basic charts, my end-to-end analytical workflow targets structural operational improvements:
 
+$$\text{Data Ingestion (SQL/ETL)} \longrightarrow \text{Data Hygiene (Pandas/Power Query)} \longrightarrow \text{Semantic Modeling (DAX)} \longrightarrow \text{Visual Optimization (BI)} \longrightarrow \text{Strategic ROI}$$
+
+* **Data Hygiene & Infrastructure:** Enforcing strict primary/foreign key data integrity, correcting legacy data type formats, and purging column noise.
+* **Information Density Control:** Removing amateur visual artifacts (like pie charts and high-saturation grids) and replacing them with professional, monochromatic trend lines and comparative horizontal arrays.
+* **Stakeholder Enablement:** Converting raw numbers into business-aligned indicators, enabling operations managers to spot margin compressions or volume drops instantly.
+
+---
+
+## 🌐 Enterprise Architecture Focus (Currently Scaling)
+
+* **Advanced Calculation Optimization:** Scaling advanced DAX time-intelligence matrices and high-performance recursive SQL stored procedures.
+* **Cloud Architecture Scaling:** Deploying and managing enterprise warehouse integrations using automated Azure Data Services.
+* **Programmatic Forecasting:** Applying Python statistical packages to construct automated, predictive forecasting models.
+
+---
 ---
 <h1 align="center">Hi 👋 </h1>
 
@@ -130,7 +94,6 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 
 **Process:** Collect → Clean → Analyse → Visualise → Recommend → Improve
 
-> Data tells us what is happening. The real challenge is understanding why it is happening and what should happen next. Through my projects, I have focused on turning analysis into action by combining technical skills with curiosity, lived experience, and a people-first perspective to create solutions that are both evidence-based and meaningful.
 
 # 🌐 Portfolio & Connect With Me
 
@@ -166,22 +129,3 @@ I enjoy transforming raw data into meaningful insights, uncovering trends, and c
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kiran-kaur-sangha&theme=tokyonight&hide_border=true"/>
 </p>
-
----
----
-
-# 🌱 Currently Learning
-
-* Advanced SQL Queries
-* Python for Data Analytics
-* Power BI Data Modelling
-* Azure Data Services
-* AI & Automation Technologies
-
----
-
-# ⭐ A Little About Me
-
-From analysing retail sales and Spotify listening habits to exploring cloud infrastructure and relational databases, I'm building a portfolio that reflects curiosity, continuous learning, and a passion for turning data into meaningful stories.
-
-> **"Data tells a story — my goal is to help people understand it."**
